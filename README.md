@@ -1,4 +1,6 @@
 
+This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
+
 ## Technologies
 
 This project was developed using the following technologies:
@@ -16,9 +18,6 @@ $ yarn server
 
 # Start the project
 $ yarn dev
-
-
-This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
 
 ## Layout
 
